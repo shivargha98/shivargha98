@@ -17,8 +17,7 @@ I'm a passionate **AI/ML Engineer** specializing in **Generative AI**, **Agentic
 - 🤖 Building **agentic AI systems** with LangGraph and advanced orchestration patterns
 - 📚 Exploring **RAG (Retrieval-Augmented Generation)** architectures and optimization techniques
 - 🔌 Experimenting with **Model Context Protocol (MCP)** for seamless AI integrations
-- 🏏 Applying ML to real-world problems like cricket analytics
-- 🛣️ Developing computer vision solutions for road network detection
+- 🏏 Applying AI/ML to real-world problems like cricket analytics, Fintech
 
 ## 💻 Tech Stack
 
@@ -89,11 +88,5 @@ I'm always excited to collaborate on interesting AI projects, discuss the latest
 ---
 
 <div align="center">
-
-### "The best way to predict the future is to invent it." - Alan Kay
-
-![Visitor Count](https://profile-counter.glitch.me/shivargha98/count.svg)
-
-⭐️ From [shivargha98](https://github.com/shivargha98)
 
 </div>
