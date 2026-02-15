@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @shivargha98
 
 # Hi there, I'm Shivargha 👋
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivargha-bandopadhyay-332b0b17/)
-[![GitHub followers](https://img.shields.io/github/followers/shivargha98?style=for-the-badge&logo=github)](https://github.com/shivargha98)
 
 </div>
 
@@ -13,21 +11,6 @@
 
 I'm a passionate **AI/ML Engineer** specializing in **Generative AI**, **Agentic Systems**, and **Deep Learning**. I love tackling challenging problems in computer vision and building intelligent systems that push the boundaries of what's possible with AI.
 
-```python
-class Shivargha:
-    def __init__(self):
-        self.name = "Shivargha Bandopadhyay"
-        self.location = "India 🇮🇳"
-        self.current_focus = ["GenAI", "Agentic AI", "LLM Applications"]
-        self.interests = ["Deep Learning", "Computer Vision", "MLOps"]
-        self.learning = ["LangGraph", "Model Context Protocol", "Advanced RAG"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = Shivargha()
-me.say_hi()
-```
 
 ## 🔭 What I'm Working On
 
